@@ -40,6 +40,7 @@
 [Rr]elease/
 [Rr]eleases/
 x64/
+include/
 x86/
 bld/
 [Bb]in/
